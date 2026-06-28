@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Utkarsh Dwivedi! 👋
 
-<!--
-**utkarsh7379/utkarsh7379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student | Maharana Pratap Engineering College, AKTU  
+📍 Kanpur, Uttar Pradesh, India  
+💼 Open to Internships & Placements  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on **AI & Full Stack Projects**
+- 🌱 Learning **DSA in C++** & **System Design**
+- 💡 Passionate about building real-world AI solutions
+- 📫 Reach me at: **dwivediutkarsh1111@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Express.js, Laravel
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AI Resume Analyzer](https://github.com/utkarsh7379/AI-Resume-Analyzer) | ATS Score + Skill Gap Analyzer | MERN + Python |
+| [AI Exam Prep Assistant](https://github.com/utkarsh7379/ai-exam-prep-assistant) | Exam ready answers generator | Python |
+| [Forge2 Hackathon](https://github.com/utkarsh7379/forge2-qualifier-utkarsh) | AI Kanban Board | React + Laravel |
+
+---
+
+## 📊 GitHub Stats
+
+
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh7379&show_icons=true&theme=tokyonight)
+
+
+
+---
+
+## 🔗 Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+
+](https://linkedin.com/in/utkarsh-dwivedi-6a36b302)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)
+
+](mailto:dwivediutkarsh1111@gmail.com)
