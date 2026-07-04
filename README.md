@@ -28,9 +28,7 @@
 |---------|-------------|------|
 | [AI Resume Analyzer](https://github.com/utkarsh7379/AI-Resume-Analyzer) | ATS Score + Skill Gap Analyzer | MERN + Python |
 | [AI Exam Prep Assistant](https://github.com/utkarsh7379/ai-exam-prep-assistant) | Exam ready answers generator | Python |
-| [Forge2 Hackathon](https://github.com/utkarsh7379/forge2-qualifier-utkarsh) | AI Kanban Board | React + Laravel |
 
----
 
 ## 📊 GitHub Stats
 
