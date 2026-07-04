@@ -28,6 +28,7 @@
 |---------|-------------|------|
 | [AI Resume Analyzer](https://github.com/utkarsh7379/AI-Resume-Analyzer) | ATS Score + Skill Gap Analyzer | MERN + Python |
 | [AI Exam Prep Assistant](https://github.com/utkarsh7379/ai-exam-prep-assistant) | Exam ready answers generator | Python |
+| [Smart Job Portal](https://github.com/utkarsh7379/smart-job-portal) | Job portal with JWT auth & role-based dashboards | MERN Stack |
 
 
 ## 📊 GitHub Stats
